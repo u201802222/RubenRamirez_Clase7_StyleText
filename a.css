@@ -1,0 +1,33 @@
+.estiloTexto {
+    color: rgb(221, 54, 32);
+    text-align: center;
+    direction: ltr; /*left to right, right to left */
+    text-decoration-line: line-through;
+    text-transform: uppercase; /*otras opciones: lowercase, capitalize */
+    text-indent: 50px;
+    letter-spacing: 10px;
+    line-height: 1.8;
+    word-spacing: 5px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .estiloTexto2 {
+    color: rgb(32, 168, 221);
+    text-align: center;
+    direction: ltr; 
+    text-decoration: dashed;
+    text-transform: capitalize;
+  
+     text-shadow: 2px 2px rgb(58, 11, 11); 
+    font-family: 'Courier New', Courier, monospace;
+   }
+   
+   .estiloTexto3 {
+    color: rgb(77, 160, 44);
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 1px 1px rgba(38, 87, 18, 0.747);
+    text-decoration: wavy 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
